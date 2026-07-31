@@ -1,4 +1,4 @@
- # 💫 About Me:
+# 💫 About Me:
 I'm an MCA student passionate about developing software that solves real-world problems. Currently, I'm focused on Python, backend development, and exploring AI through hands-on projects.
 
 
@@ -13,6 +13,6 @@ I'm an MCA student passionate about developing software that solves real-world p
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=PraptiTanisha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=PraptiTanisha&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=PraptiTanisha&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
