@@ -11,9 +11,10 @@ I’m an MCA student with a strong interest in Software Engineering, Backend Dev
 [![Prapti's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PraptiTanisha&theme=github-compact)](https://github.com/PraptiTanisha)
 
 ### ✍️ Random Dev Quote
-### ✨ A Little Wonder
-
-> “Keep a little wonder in everything you do.”
+ > “Keep a little wonder in everything you do.”
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=120&section=header&text=Keep%20a%20little%20wonder%20in%20everything%20you%20do.&fontSize=22&fontColor=ffffff&fontAlignY=55" />
+</p>
 
 [GitHub Profile](https://github.com/PraptiTanisha)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
